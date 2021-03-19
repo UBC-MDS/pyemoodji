@@ -100,14 +100,24 @@ Also you could change the sentiment parameter to only see words with one type of
 
 
 
-
 ## Documentation
 
 The official documentation is hosted on Read the Docs: https://pyemoodji.readthedocs.io/en/latest/
 
 ## Dependencies
 
-- TODO
+- nltk = ^3.5.0
+- text2motion = ^0.0.5
+- pytest = ^6.2.2
+- pytest-cov = ^2.11.1
+- codecov = ^2.1.11
+- python-semantic-release = ^7.15.0
+- flake8 = ^3.8.4
+- Sphinx = ^3.5.1
+- sphinxcontrib-napoleon = ^0.7
+- pandas = ^1.2.3
+- altair = ^4.1.0
+- numpy = ^1.20.1
 
 ## Contributors
 
